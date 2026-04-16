@@ -1,0 +1,12 @@
+drop table if exists public.agenda_recordatorios cascade;
+drop table if exists public.paciente_journal_entries cascade;
+drop table if exists public.paciente_checkins cascade;
+drop table if exists public.paciente_calculo_dietetico cascade;
+drop table if exists public.paciente_plan_semanal cascade;
+drop table if exists public.paciente_plan_alimentos cascade;
+drop table if exists public.consultas cascade;
+drop table if exists public.alimentos_personalizados cascade;
+drop table if exists public.smae_alimentos cascade;
+drop table if exists public.platillos_inteligentes cascade;
+drop table if exists public.deporte_adaptado_pacientes cascade;
+drop table if exists public.pacientes cascade;
